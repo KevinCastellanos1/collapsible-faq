@@ -44,7 +44,7 @@
         </div>
         <div>
             <hr><h3 align="center">FAQs</h3><hr>        
-            <h4 align="center">Lista de preguntas:<h4>            
+            <h4 align="center">Frequently Asked Questions <h4>            
             <p>1. What is the collapsible FAQ project?</p>            
             <p>- The collapsible FAQ project is a question and answer system where answers can be hidden or shown by clicking on the corresponding question.</p>        
             <p>2. What technologies were used to develop the project?</p>            
