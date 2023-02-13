@@ -29,7 +29,7 @@
             <p>This project is an expandable FAQ (Frequently Asked Questions) web page that includes two HTML files, one in Spanish and one in English, and a JavaScript file called app.js. The web page has a header with a title "FAQs" and a language change function, allowing users to select their preferred language. The main content of the page consists of a series of questions and answers organized in an FAQ format.</p>
             <p>The app.js file is responsible for the functionality of the page, allowing users to expand and contract the answers of each question through a button with an arrow icon. Additionally, the CSS file, generated from an SCSS file, provides the visual design of the page.</p>
             <P>In summary, this project is a functional and expandable FAQ web page that allows users to select their preferred language and access information in an organized and accessible way.</P>
-            <p align="center"><a  href="#">DEMO (click aqui)</a></p>
+            <p align="center"><a  href="https://collapsible-faq-kev.netlify.app/">DEMO (click aqui)</a></p>
         </div>
         <div>              
             <hr><h3 align="center">Code Explanation</h3><hr>        
